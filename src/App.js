@@ -9,11 +9,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <One nickname= 'Mukul' age='30'/>
         <One nickname= 'Maidul' age='30'/>
-        <One nickname= 'Islam' age='30'/>
-        <One nickname= 'Ok' age='30'/>
-        <Two />
+
+        <Two nickname= 'Mukul' age='31'/>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
